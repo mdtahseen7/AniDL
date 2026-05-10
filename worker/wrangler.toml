@@ -1,0 +1,6 @@
+name = "tokyo-downloader-api"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[vars]
+TOKYO_INSIDER_BASE_URL = "https://www.tokyoinsider.com"
