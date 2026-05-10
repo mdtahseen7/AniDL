@@ -1,4 +1,4 @@
-# Tokyo Downloader API
+# AniDL
 
 A simple API that fetches anime download links from Tokyo Insider. Built with Cloudflare Workers - runs on the edge, no server needed.
 
@@ -238,4 +238,4 @@ This tool is for educational purposes. Don't abuse the source website. Download 
 
 ## Contact
 
-Found a bug? Want to add features? Open an issue or hit me up. Discord: x5oc
+Found a bug? Want to add features? Open an issue or hit me up.
