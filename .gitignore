@@ -1,2 +1,12 @@
+# Dependencies
+node_modules/
+
 # Generated files
 links.txt
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
