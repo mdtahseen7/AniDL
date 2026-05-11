@@ -5,6 +5,7 @@ A simple API that fetches anime download links from Tokyo Insider. Built with Cl
 ## What This Does
 
 You give it an anime name (or ID) and it spits back download links. That's it. No scraping scripts, no local setup, just HTTP requests.
+The tokyoinsider website has a usually small-medium library, maybe u wont find every anime there.
 
 ## Quick Start
 
